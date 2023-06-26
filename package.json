@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.2"
   },
   "scripts": {
@@ -8,8 +9,15 @@
   "name": "express-post-app",
   "version": "1.0.0",
   "main": "posts.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimal573/Placement_vimal_Express-post-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vimal573/Placement_vimal_Express-post-app/issues"
+  },
+  "homepage": "https://github.com/vimal573/Placement_vimal_Express-post-app#readme",
   "description": ""
 }
